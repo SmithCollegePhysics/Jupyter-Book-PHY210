@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project: 
+  id: 5a9e8170-3914-4227-9cb5-a4fba8df5c0a
+  # title:
+  # description: Examples of how to use Symbolic Python to solve common tasks in PHY 210
+  # keywords: []
+  # authors: [Nat Fortune]
+  # github: SmithCollegePhysics/PHY210
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc: 
+  - file: Python-for-210.md
+  - file: PHY210_Sympy_Basics.ipynb
+  - file: PHY210_Sympy_ODE_basics.ipynb
+  - file: PHY210_Sympy_ODE_Laplace.ipynb
+  - file: PHY210_SymPy_Row_Reduction.ipynb
+  - file: PHY210_Sympy_Linear_Algebra.ipynb
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
