@@ -10,11 +10,19 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc: 
   - file: Python-for-210.md
-  - file: PHY210_Sympy_Basics.ipynb
-  - file: PHY210_Sympy_ODE_basics.ipynb
-  - file: PHY210_Sympy_ODE_Laplace.ipynb
-  - file: PHY210_SymPy_Row_Reduction.ipynb
-  - file: PHY210_Sympy_Linear_Algebra.ipynb
+  - title: SymPy notebooks
+    children:
+      - file: PHY210_Sympy_Basics.ipynb
+      - file: PHY210_Sympy_ODE_basics.ipynb
+      - file: PHY210_Sympy_ODE_Laplace.ipynb
+      - file: PHY210_SymPy_Row_Reduction.ipynb
+      - file: PHY210_Sympy_Linear_Algebra.ipynb
+  - title: Notes
+    children:  
+      - file: README.md
+      - file: How to run these notebooks.md
+      - file: uv-and-marimo-installation.md
+      
 site:
   template: book-theme
   # options:
