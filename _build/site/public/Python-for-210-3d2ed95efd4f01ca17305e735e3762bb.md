@@ -1,0 +1,12 @@
+# Math Methods: Introduction to SymPy
+
+This is a collection of Python-based Jupyter Notebooks for use in Math Methods.  The notebooks illustrate how to use the symbolic mathematics package SymPy to solve problems in 
+
+- basic mathematics 
+- ordinary differential equations (ODE)
+- Laplace Transforms
+- linear algebra (and row reduction)
+
+These notebooks were used as templates for advanced projects in PHY 210 during Fall 2025. These projects were introduced at the end of each section of the course, so students first learned how to do each method "by hand," then learned how to extend their abilities using SymPy. 
+
+ 
