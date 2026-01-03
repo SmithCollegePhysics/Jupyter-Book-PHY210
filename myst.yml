@@ -2,10 +2,11 @@
 version: 1
 project: 
   id: 5a9e8170-3914-4227-9cb5-a4fba8df5c0a
-  # title:
-  # description: Examples of how to use Symbolic Python to solve common tasks in PHY 210
+  title: Python for PHY 210
+  description: Examples of how to use Symbolic Python to solve common tasks in PHY 210
   # keywords: []
-  # authors: [Nat Fortune]
+  authors: [Nat Fortune]
+  jupyter: true
   # github: SmithCollegePhysics/PHY210
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc: 
