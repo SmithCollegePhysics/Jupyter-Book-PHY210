@@ -1,6 +1,5 @@
 sympy
 numpy
-python
 matplotlib
 jupyter_core
 notebook
