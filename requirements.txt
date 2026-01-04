@@ -1,0 +1,7 @@
+SymPy>=1.14.0
+numpy>=2.4.0
+python>=3.12.3
+matplotlib>=3.9.0
+jupyter_core>=5.9.1
+notebook>=7.5.1
+
