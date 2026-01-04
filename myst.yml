@@ -25,7 +25,10 @@ project:
       - file: uv-and-marimo-installation.md
       
 site:
+  domains:
+  - nfortune-SymPy.curve.space
   template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  
